@@ -22,5 +22,6 @@ class matching
         }
         if(min!=-1)
         System.out.println(min);
+        System.out.println("Test");
     }
 }
